@@ -1,93 +1,107 @@
-<h1 align="center">Aakash Mishra</h1>
+<h1 align="center">Hi 👋 I'm Aakash Mishra</h1>
 
 <p align="center">
-  <b>AI Product Engineer • Automation Architect • Full-Stack Builder</b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=750&lines=Android+Native+Developer;Flutter+Application+Engineer;AI+Application+Builder;Mobile+First+Product+Engineer;Building+Scalable+Mobile+Apps" />
 </p>
 
 <p align="center">
-  Building Revenue-Focused AI Systems & Scalable Digital Products 🚀
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F3FBF&size=26&center=true&vCenter=true&width=700&lines=AI+First+Product+Engineer;Flutter+%26+Next.js+Specialist;Agentic+AI+Builder;Automation+Architect;Turning+Ideas+into+Scalable+Systems" />
+  🚀 Mobile Application Specialist | 🤖 AI App Developer | ⚡ Product-Focused Engineer
 </p>
 
 ---
 
-## 🧠 Positioning
+# 📱 Mobile-First Engineer
 
-I don’t just write code.  
-I architect **AI-powered, scalable, monetizable products**.
+I specialize in building **high-performance mobile applications** that are:
 
-I specialize in:
+✔ Scalable  
+✔ Cleanly Architected  
+✔ Monetizable  
+✔ Production-Ready  
 
-- 🤖 Agentic AI Systems
-- 📱 High-performance Flutter Apps
-- 🌐 Next.js SaaS Platforms
-- 🔄 Automation Infrastructure
-- 💰 Revenue-driven MVP Engineering
+My core strength is **Application Development**.
 
 ---
 
-## 🚀 Current Mission
+## 🔥 Core Expertise
 
-Building future-ready AI tools that:
-
-- Replace manual workflows
-- Automate decision systems
-- Reduce operational costs
-- Generate recurring revenue
-
-Focused on 2025 AI-driven product ecosystem.
+### 📱 Android (Native)
+- Kotlin
+- MVVM Architecture
+- REST API Integration
+- Firebase Integration
+- Performance Optimization
+- Clean UI / Material Design
+- Play Store Deployment
 
 ---
 
-## 🏗 Core Expertise
+### 💙 Flutter Development
+- Scalable App Architecture
+- State Management
+- Cross-platform Optimization
+- Real-time Features (Chat / Sync)
+- Location-based Systems
+- Custom UI Animations
+- Firebase + Backend Integration
 
-### 📱 Mobile Engineering
-- Flutter
-- FlutterFlow
-- Android (Native)
-- Firebase Ecosystem
+---
 
-### 🌐 Web & Backend
-- Next.js
-- React
-- Payload CMS
-- Full-stack architecture design
+### 🤖 AI Application Development
 
-### 🤖 AI & Automation
+I also build **AI-powered applications** including:
+
+- AI Chat-based Apps
 - Agentic AI Systems
-- Prompt Engineering
-- Make.com Workflows
-- Bolt.new Rapid Prototyping
-- MCP Servers
-- AI Avatars with Speech
+- Automation-driven Apps
+- AI-assisted User Workflows
+- Prompt-engineered intelligent features
+- AI Avatar + Speech Integrations
 
-### ⚙ Product Thinking
-- MVP to Scale
-- Monetization-first architecture
-- Automation-first backend design
-- Scalable infra planning
+AI + Mobile = My Competitive Edge.
 
 ---
 
-## 📦 Featured Product
+# 🧠 What Makes Me Different?
 
-### 📚 BookNBook  
-OLX-style marketplace for buying & selling books.
+Most developers build apps.
 
-✔ Location-based discovery  
-✔ Real-time chat  
-✔ Smart filters  
-✔ Responsive UI  
-✔ Scalable architecture  
+I build:
 
-Built for performance & monetization.
+📲 Apps with business logic  
+🤖 Apps with AI intelligence  
+⚙ Apps with automation systems  
+💰 Apps built for revenue  
 
 ---
 
-## 📊 GitHub Intelligence
+# 🚀 Highlight Project
+
+## 📚 BookNBook  
+A location-based marketplace for buying & selling books.
+
+- 📍 Geo-based discovery
+- 💬 Real-time chat
+- 🔍 Smart filters
+- 📱 Fully responsive UI
+- ⚡ Built with Flutter
+
+---
+
+# 🛠 Tech Stack Snapshot
+
+**Mobile:**  
+Flutter • Android (Kotlin) • Firebase  
+
+**Backend & Web:**  
+Next.js • React • Payload CMS  
+
+**AI & Automation:**  
+Agentic AI • Make.com • Prompt Engineering • Bolt.new  
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -99,37 +113,16 @@ Built for performance & monetization.
 
 ---
 
-## 🧩 What I Can Build For You
+# 🎯 Current Focus
 
-- AI SaaS Platforms
-- Startup MVPs
-- Full-stack Applications
-- Mobile Apps (Flutter)
-- Automation Systems
-- Admin Dashboards
-- Scalable Backend Systems
-
----
-
-## 🧠 Vision
-
-To build a future-ready AI product company that:
-
-- Automates businesses
-- Ships fast
-- Scales globally
-- Operates intelligently
-
----
-
-## 📫 Let’s Build
-
-- 💼 LinkedIn: (Add your link)
-- 🌐 Portfolio: (Add your link)
-- 📧 Email: (Add your email)
+- Building AI-integrated Mobile Apps
+- Scaling Flutter Applications
+- Advanced Android Architecture
+- Automation-driven systems
+- SaaS-focused mobile platforms
 
 ---
 
 <p align="center">
-  <i>AI is not the future. Intelligent execution is.</i>
+  ⚡ I build mobile applications that think.
 </p>
