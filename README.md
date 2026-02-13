@@ -1,128 +1,43 @@
-<h1 align="center">Hi 👋 I'm Aakash Mishra</h1>
+# Hi there, I'm [Your Name]! 👋
+### 🚀 [Your Role: e.g., Full-Stack Developer | AI Enthusiast | UI/UX Designer]
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=750&lines=Android+Native+Developer;Flutter+Application+Engineer;AI+Application+Builder;Mobile+First+Product+Engineer;Building+Scalable+Mobile+Apps" />
-</p>
-
-<p align="center">
-  🚀 Mobile Application Specialist | 🤖 AI App Developer | ⚡ Product-Focused Engineer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Building+digital+experiences;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
-# 📱 Mobile-First Engineer
-
-I specialize in building **high-performance mobile applications** that are:
-
-✔ Scalable  
-✔ Cleanly Architected  
-✔ Monetizable  
-✔ Production-Ready  
-
-My core strength is **Application Development**.
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **[New Tech: e.g., Rust or LLMs]**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **[Topics you know well]**
+- ⚡ Fun fact: **[Something quirky about you]**
 
 ---
 
-## 🔥 Core Expertise
-
-### 📱 Android (Native)
-- Kotlin
-- MVVM Architecture
-- REST API Integration
-- Firebase Integration
-- Performance Optimization
-- Clean UI / Material Design
-- Play Store Deployment
-
----
-
-### 💙 Flutter Development
-- Scalable App Architecture
-- State Management
-- Cross-platform Optimization
-- Real-time Features (Chat / Sync)
-- Location-based Systems
-- Custom UI Animations
-- Firebase + Backend Integration
-
----
-
-### 🤖 AI Application Development
-
-I also build **AI-powered applications** including:
-
-- AI Chat-based Apps
-- Agentic AI Systems
-- Automation-driven Apps
-- AI-assisted User Workflows
-- Prompt-engineered intelligent features
-- AI Avatar + Speech Integrations
-
-AI + Mobile = My Competitive Edge.
-
----
-
-# 🧠 What Makes Me Different?
-
-Most developers build apps.
-
-I build:
-
-📲 Apps with business logic  
-🤖 Apps with AI intelligence  
-⚙ Apps with automation systems  
-💰 Apps built for revenue  
-
----
-
-# 🚀 Highlight Project
-
-## 📚 BookNBook  
-A location-based marketplace for buying & selling books.
-
-- 📍 Geo-based discovery
-- 💬 Real-time chat
-- 🔍 Smart filters
-- 📱 Fully responsive UI
-- ⚡ Built with Flutter
-
----
-
-# 🛠 Tech Stack Snapshot
-
-**Mobile:**  
-Flutter • Android (Kotlin) • Firebase  
-
-**Backend & Web:**  
-Next.js • React • Payload CMS  
-
-**AI & Automation:**  
-Agentic AI • Make.com • Prompt Engineering • Bolt.new  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
-# 🎯 Current Focus
-
-- Building AI-integrated Mobile Apps
-- Scaling Flutter Applications
-- Advanced Android Architecture
-- Automation-driven systems
-- SaaS-focused mobile platforms
+### 📊 My GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-<p align="center">
-  ⚡ I build mobile applications that think.
+### 📫 Let's Connect!
+<p align="left">
+<a href="[Your LinkedIn Link]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:[Your Email]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
