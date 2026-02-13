@@ -1,301 +1,98 @@
-<div align="center">
+# 🚀 Quick Setup Instructions
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aakash%20Mishra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cross-Platform%20Specialist&descAlignY=51&descAlign=50"/>
+## Your README is ready! Here's what to do:
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Tomorrow's+Apps+Today+%F0%9F%9A%80;2.9%2B+Years+of+Innovation+%F0%9F%92%A1;Flutter+%7C+Android+%7C+AI+Integration+%E2%9A%A1;Turning+Ideas+into+Reality+%F0%9F%8E%AF" alt="Typing SVG" /></a>
-</p>
+### 1️⃣ Upload to GitHub
+1. Go to your repository: `github.com/Aakash898/Aakash898`
+2. Upload the `README.md` file
+3. Commit the changes
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
-</div>
+That's it! Your profile will automatically display the README.
 
 ---
 
-<!-- About Me Section with Gradient -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+## 🐍 Optional: Set Up Snake Animation
 
-### 👨‍💻 About Me
+To get the cool snake eating your contributions:
 
-```dart
-class AakashMishra {
-  final String location = "📍 Chandigarh, India";
-  final double experience = 2.9;
-  final String currentRole = "Flutter Developer @ Primotech";
-  
-  final List<String> expertise = [
-    "Cross-Platform Development 📱",
-    "AI-Powered Applications 🤖",
-    "Backend Integration ☁️",
-    "LLM Implementation 🧠"
-  ];
-  
-  void currentlyWorking() {
-    print("🔥 Building intelligent apps with Flutter & AI");
-    print("🚀 Exploring cutting-edge AI tools");
-    print("⚡ Optimizing performance & UX");
-  }
-  
-  String funFact() => "I turn coffee into code! ☕️→💻";
-}
+### Step 1: Create Workflow File
+1. In your `Aakash898` repository, create this folder structure:
+   ```
+   .github/workflows/
+   ```
+
+2. Create a file named `snake.yml` inside the `workflows` folder
+
+3. Paste this code:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Aakash898
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 ```
 
-<br clear="right"/>
+4. Save and commit
+
+### Step 2: Run the Workflow
+1. Go to the "Actions" tab in your repository
+2. Click on "Generate Snake" workflow
+3. Click "Run workflow"
+4. Wait for it to complete
+
+The snake animation will now appear on your profile and update daily!
 
 ---
 
-## 🛠️ Tech Arsenal
+## 📊 Your Dynamic Stats
 
-<div align="center">
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-682BD7?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
-
-### 🔧 Backend & Tools
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🎨 Design & Video
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+All your GitHub stats are now dynamic and will auto-update:
+- ✅ Profile views counter
+- ✅ GitHub stats card
+- ✅ Contribution streak
+- ✅ Top languages
+- ✅ Activity graph
+- ✅ Trophy showcase
+- ✅ Visitor counter
 
 ---
 
-## 📊 GitHub Analytics
+## 🎨 Customization Tips
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
-</div>
+**Change Colors:**
+- Purple: `#6C63FF`
+- Pink: `#FF6B6B`
+- You can replace these hex codes throughout the README
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF" />
-</div>
+**Add More Badges:**
+Visit [shields.io](https://shields.io) for custom badges
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
+**Add Your Projects Later:**
+When you're ready, I can help you add your project repositories!
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Need Help?
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 👗 Humble Warrior
-**Fashion Advice Platform for Women**
-- 📱 Android App (App Store)
-- 🎨 Curated styling tips & exclusive deals
-- 👥 Supportive community features
-
-[![View Project](https://img.shields.io/badge/View-Project-6C63FF?style=for-the-badge&logo=android)](https://github.com/YourGitHubUsername)
-
-</td>
-<td width="50%">
-
-### 💊 WiseRx
-**Prescription Discount App (U.S.)**
-- 💰 Save up to 85% on medications
-- 🐕 Includes pet prescriptions
-- 📱 Digital discount cards
-
-[![View Project](https://img.shields.io/badge/View-Project-6C63FF?style=for-the-badge&logo=android)](https://github.com/YourGitHubUsername)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎁 PW Partner Perks
-**Healthcare Professional Rewards**
-- 🔍 QR code scanning system
-- 💳 Points redeemable for gift cards
-- 👨‍⚕️ Healthcare-focused platform
-
-[![View Project](https://img.shields.io/badge/View-Project-6C63FF?style=for-the-badge&logo=android)](https://github.com/YourGitHubUsername)
-
-</td>
-<td width="50%">
-
-### 🤖 Slammie AI
-**Sports AI Chatbot Platform**
-- ⚽ Sports-themed interactions
-- 💬 AI-powered trash-talk & trivia
-- 🌐 Web-based application
-
-[![View Project](https://img.shields.io/badge/View-Project-6C63FF?style=for-the-badge&logo=web)](https://github.com/YourGitHubUsername)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎭 Demimonde
-**Interactive Web Application**
-- 🎨 Modern UI/UX design
-- ⚡ Built with FlutterFlow
-- 🌐 Responsive web experience
-
-[![View Project](https://img.shields.io/badge/View-Project-6C63FF?style=for-the-badge&logo=flutter)](https://github.com/YourGitHubUsername)
-
-</td>
-<td width="50%">
-
-### 🐕 Dog Express
-**News & Content for Dog Lovers**
-- 📰 Latest dog-related news
-- 🐾 Community features
-- 🚀 Pre-launch phase
-
-[![View Project](https://img.shields.io/badge/View-Project-6C63FF?style=for-the-badge&logo=android)](https://github.com/YourGitHubUsername)
-
-</td>
-</tr>
-</table>
-
-</div>
+If the images don't load immediately:
+1. Wait a few minutes (GitHub needs to cache)
+2. Make sure your repository is public
+3. Check that your username is spelled correctly: `Aakash898`
 
 ---
 
-## 💼 Professional Journey
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6C63FF','primaryTextColor':'#fff','primaryBorderColor':'#FF6B6B','lineColor':'#6C63FF','secondaryColor':'#0D1117','tertiaryColor':'#1a1b27'}}}%%
-timeline
-    title My Professional Evolution
-    section Education
-        2017 : 12th Grade
-        2020 : BCA Completed
-        2023 : MCA Completed
-    section Career
-        Sept 2022 : Android Developer @ NetSet Software
-             : Java, Kotlin, REST APIs
-        July 2023 : Flutter Developer @ Primotech
-             : AI Integration, Cross-Platform
-        Present : AI-Powered App Development
-             : LLMs, Automation, MCP Servers
-```
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🔥 Working On | 🌱 Learning | 🎮 Exploring |
-|:---:|:---:|:---:|
-| AI-Powered Apps | Advanced LLM Integration | Rapid App Prototyping |
-| Flutter Performance | MCP Server Architecture | AI Automation Tools |
-| Backend Optimization | Prompt Engineering | Video Editing with Adobe |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maakash053@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterUsername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918427374677)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎵 Coding Soundtrack
-
-<div align="center">
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YourSpotifyUsername)
-
-*Currently vibing to: Lo-fi beats while debugging 🎧*
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-</div>
-
----
-
-<!-- Dynamic Footer -->
-<div align="center">
-
-### Show some ❤️ by starring some of my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
-
----
-
-<div align="center">
-
-**⚡ Fun Fact:** I can debug code faster with coffee ☕️
-
-![Visitor Count](https://profile-counter.glitch.me/YourGitHubUsername/count.svg)
-
-*Last Updated: February 2025*
-
-</div>
+**Your profile is ready to impress! 🎉**
