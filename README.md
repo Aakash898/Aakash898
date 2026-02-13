@@ -11,6 +11,7 @@
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aakash898&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Aakash898?label=Followers&style=for-the-badge&color=6C63FF" alt="GitHub Followers" />
 </p>
 
 </div>
@@ -140,12 +141,10 @@ timeline
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Aakash898/Aakash898/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash898&custom_title=Aakash's%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area_color=6C63FF&title_color=6C63FF&area=true" />
 </div>
 
 ---
@@ -194,8 +193,6 @@ timeline
 <div align="center">
 
 **⚡ Fun Fact:** I can debug code faster with coffee ☕️
-
-![Visitor Count](https://profile-counter.glitch.me/Aakash898/count.svg)
 
 *Last Updated: February 2025*
 
