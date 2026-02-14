@@ -83,16 +83,17 @@ class AakashMishra {
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aakash898&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash898&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aakash898&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Aakash898&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash898&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash898&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash898&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash898&theme=tokyo-night&hide_border=true" />
 </div>
 
 <!-- GitHub Trophies -->
