@@ -150,6 +150,23 @@ timeline
 
 ---
 
+## 🎮 When I'm Not Coding...
+
+<div align="center">
+
+```javascript
+const aakash = {
+  hobbies: ["📷 Photography", "🎬 Video Editing", "🎵 Music", "🎮 Gaming"],
+  favoriteDrink: "☕ Coffee (lots of it)",
+  superPower: "Debugging at 3 AM",
+  motto: "Code. Build. Ship. Repeat. 🔄"
+};
+```
+
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
