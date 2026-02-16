@@ -198,7 +198,6 @@ const aakash = {
 
 ---
 
-<!-- Dynamic Footer -->
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
