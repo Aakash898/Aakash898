@@ -144,9 +144,9 @@ timeline
 
 ## 📈 Contribution Activity
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash898&custom_title=Aakash's%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=FFFFFF&area_color=6C63FF&title_color=6C63FF&area=true" />
-</div> -->
+</div> 
 
 ---
 
