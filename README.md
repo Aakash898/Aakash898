@@ -212,6 +212,4 @@ const aakash = {
 
 **⚡ Fun Fact:** I can debug code faster with coffee ☕️
 
-*Last Updated: February 2025*
-
 </div>
