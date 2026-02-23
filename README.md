@@ -83,26 +83,6 @@ class AakashMishra {
 
 ---
 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aakash898&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Aakash898&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash898&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash898&theme=tokyo-night&hide_border=true" />
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aakash898&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
 ## 💼 Professional Journey
 
 <div align="center">
