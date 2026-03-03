@@ -204,6 +204,4 @@ const aakash = {
 
 <div align="center">
 
-**⚡ Fun Fact:** I can debug code faster with coffee ☕️
-
 </div>
