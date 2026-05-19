@@ -178,8 +178,6 @@ const aakash = {
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
-
 <div align="center">
 
 <picture>
