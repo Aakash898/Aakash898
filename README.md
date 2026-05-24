@@ -102,18 +102,6 @@ timeline
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🔥 Working On | 🌱 Learning | 🎮 Exploring |
-|:---:|:---:|:---:|
-| AI-Powered Apps | Advanced LLM Integration | Rapid App Prototyping |
-| Flutter Performance | MCP Server Architecture | AI Automation Tools |
-| Backend Optimization | Prompt Engineering | Video Editing with Adobe |
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
