@@ -141,9 +141,6 @@ const aakash = {
 </div>
 
 ---
-
-## 💡 Random Dev Quote
-
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
