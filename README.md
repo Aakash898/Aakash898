@@ -141,11 +141,6 @@ const aakash = {
 </div>
 
 ---
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
