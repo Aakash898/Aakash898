@@ -112,8 +112,6 @@ timeline
 
 ---
 
-## 🎮 When I'm Not Coding...
-
 <div align="center">
 
 ```javascript
