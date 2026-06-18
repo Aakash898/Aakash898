@@ -106,6 +106,4 @@ timeline
 
 </div>
 
-
-<div align="center">
 </div>
