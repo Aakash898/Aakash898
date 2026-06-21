@@ -101,5 +101,3 @@ timeline
 </div> 
 
 </div>
-
-</div>
