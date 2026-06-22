@@ -72,8 +72,6 @@ class AakashMishra {
 
 </div>
 
----
-
 ## 💼 Professional Journey
 
 <div align="center">
