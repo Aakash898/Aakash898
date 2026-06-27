@@ -37,8 +37,6 @@ class AakashMishra {
 
 <br clear="right"/>
 
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
