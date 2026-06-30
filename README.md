@@ -8,8 +8,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Tomorrow's+Apps+Today+%F0%9F%9A%80;2.9%2B+Years+of+Innovation+%F0%9F%92%A1;Flutter+%7C+Android+%7C+AI+Integration+%E2%9A%A1;Turning+Ideas+into+Reality+%F0%9F%8E%AF" alt="Typing SVG" /></a>
 </p>
 
-### 👨‍💻 About Me
-
 ```dart
 class AakashMishra {
   final String location = "📍 Chandigarh, India";
