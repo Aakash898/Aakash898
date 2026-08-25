@@ -13,7 +13,6 @@
 </p>
 
 ---
----
 
 ### 🚀 About Me
 
@@ -162,7 +161,6 @@ Android Developer @ NetSet Software Pvt Ltd, Mohali             Sep 2021 — May
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
----
 ---
 
 ### 📫 Let's Connect
