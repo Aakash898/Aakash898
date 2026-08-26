@@ -162,7 +162,6 @@ Android Developer @ NetSet Software Pvt Ltd, Mohali             Sep 2021 — May
 </p>
 
 ---
----
 
 ### 📫 Let's Connect
 
