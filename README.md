@@ -132,6 +132,7 @@ Android Developer @ NetSet Software Pvt Ltd, Mohali             Sep 2021 — May
 | **WiseRx** – Prescription Discount App 📲 | Android, Kotlin, Java, Firebase | HIPAA-aligned US healthcare app with secure offline storage & pharmacy integrations |
 
 ---
+---
 
 ### 📊 Key Achievements
 
